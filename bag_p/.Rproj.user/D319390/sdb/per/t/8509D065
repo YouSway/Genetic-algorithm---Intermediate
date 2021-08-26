@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503863199494.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8509D065",
+    "lastKnownWriteTime" : 29555327824232560,
+    "last_content_update" : 1503863199494,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "eppmvjymxg",
+        "caption" : "time_chromosomes03",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=time_chromosomes03&cache_key=eppmvjymxg",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "time_chromosomes03",
+        "totalObservations" : "4",
+        "variables" : "7"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

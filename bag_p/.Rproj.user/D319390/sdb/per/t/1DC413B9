@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503864678263.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1DC413B9",
+    "lastKnownWriteTime" : 29555327824232560,
+    "last_content_update" : 1503864678263,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "yimzme4yyl",
+        "caption" : "elite_fitness",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=elite_fitness&cache_key=yimzme4yyl",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "elite_fitness",
+        "totalObservations" : "4",
+        "variables" : "16"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

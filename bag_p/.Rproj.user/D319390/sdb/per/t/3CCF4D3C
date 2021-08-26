@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503862439017.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3CCF4D3C",
+    "lastKnownWriteTime" : 1503862107,
+    "last_content_update" : 1503862439017,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "0uen0uf61w",
+        "caption" : "elite_chromosomes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=elite_chromosomes&cache_key=0uen0uf61w",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "elite_chromosomes",
+        "totalObservations" : "4",
+        "variables" : "14"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

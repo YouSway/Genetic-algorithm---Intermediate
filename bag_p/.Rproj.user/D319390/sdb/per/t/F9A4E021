@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503839202575.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F9A4E021",
+    "lastKnownWriteTime" : 29555327824232560,
+    "last_content_update" : 1503839202575,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "oxbt5me9q0",
+        "caption" : "time_chromosomes04",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=time_chromosomes04&cache_key=oxbt5me9q0",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "time_chromosomes04",
+        "totalObservations" : "4",
+        "variables" : "7"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503861988495.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "247EC562",
+    "lastKnownWriteTime" : 29555327824232560,
+    "last_content_update" : 1503861988495,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "znrdo497db",
+        "caption" : "time_fitness04",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=time_fitness04&cache_key=znrdo497db",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "time_fitness04",
+        "totalObservations" : 4,
+        "variables" : 16
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

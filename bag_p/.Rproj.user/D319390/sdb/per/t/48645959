@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1503864809418.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "48645959",
+    "lastKnownWriteTime" : 29555327824232560,
+    "last_content_update" : 1503864809418,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "w36onedvsa",
+        "caption" : "time_fitness03",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=time_fitness03&cache_key=w36onedvsa",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "time_fitness03",
+        "totalObservations" : 4,
+        "variables" : 8
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
